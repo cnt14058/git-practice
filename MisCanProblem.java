@@ -1,10 +1,5 @@
 package ex1c;
 
-
-
-
-
-
 import java.util.*;
 
 public class MisCanProblem{
